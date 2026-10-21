@@ -6,6 +6,14 @@
   <img src="https://render.gitanimals.org/farms/heeyeon9578"/>
 </a>
 
+<!-- doodle-garden:start -->
+<a href="https://github.com/heeyeon9578/doodle-buddy">
+  <img src="https://raw.githubusercontent.com/heeyeon9578/heeyeon9578/main/assets/doodle-garden.svg" width="720" alt="Heeyeon의 낙서 정원 — GitHub 활동으로 꽃이 피어나는 작은 펫 정원" />
+</a>
+
+<sub>내 낙서 친구의 정원 · 최근 30일 기여 5개마다 꽃 한 송이 · 매일 갱신</sub>
+<!-- doodle-garden:end -->
+
 <h3>▶ 기술 스택</h3>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
