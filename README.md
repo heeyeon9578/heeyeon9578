@@ -1,33 +1,72 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Heeyeon!&animation=fadeIn&fontAlign=70&color=gradient)
+<p align="center">
+  <img src="./assets/profile-header.svg" width="900" alt="Hello, I'm Heeyeon. Small ideas. Thoughtful details. A little joy." />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7ABDC&width=435&lines=I+love+coding!)](https://git.io/typing-svg)
+<p align="center">
+  작은 아이디어를 직접 만들고, 쓸 때마다 기분 좋아지는 디테일을 좋아해요.
+</p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/heeyeon9578"/>
-</a>
+<p align="center">
+  <a href="https://heeyeonportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ECE6F7?style=for-the-badge&amp;logo=vercel&amp;logoColor=66557D" alt="Portfolio" /></a>
+  <a href="https://choi-hee-yeon.tistory.com/"><img src="https://img.shields.io/badge/Blog-F7E4ED?style=for-the-badge&amp;logo=tistory&amp;logoColor=8F6078" alt="Tistory blog" /></a>
+  <a href="https://heeyeon9578.notion.site/Heeyoun-s-IT-6ce6046d06a649e5bad5b7b76ce35ca2"><img src="https://img.shields.io/badge/Notes-F4EDE2?style=for-the-badge&amp;logo=notion&amp;logoColor=85745E" alt="Notion notes" /></a>
+</p>
+
+<br />
+
+<h3 align="center">🌱 My little garden</h3>
+<p align="center"><sub>코드를 쓰는 날마다 조금씩 자라는, 나만의 작은 정원</sub></p>
 
 <!-- doodle-garden:start -->
-<a href="https://github.com/heeyeon9578/doodle-buddy">
-  <img src="https://raw.githubusercontent.com/heeyeon9578/heeyeon9578/main/assets/doodle-garden.svg" width="720" alt="Heeyeon의 낙서 정원 — GitHub 활동으로 꽃이 피어나는 작은 펫 정원" />
-</a>
-
-<sub>내 낙서 친구의 정원 · 최근 30일 기여 5개마다 꽃 한 송이 · 매일 갱신</sub>
+<p align="center">
+  <a href="https://github.com/heeyeon9578/doodle-buddy">
+    <img src="https://raw.githubusercontent.com/heeyeon9578/heeyeon9578/main/assets/doodle-garden.svg" width="720" alt="Heeyeon의 낙서 정원 — GitHub 활동으로 꽃이 피어나는 작은 펫 정원" />
+  </a>
+</p>
+<p align="center"><sub>최근 30일 기여 5개마다 꽃 한 송이 · 매일 갱신 · 정원을 누르면 낙서 친구 프로젝트로 이동해요</sub></p>
 <!-- doodle-garden:end -->
 
-<h3>▶ 기술 스택</h3>
+<br />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<h3 align="center">🧶 Things I work with</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-ECE6F7?style=flat-square&amp;logo=typescript&amp;logoColor=71618E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-ECE6F7?style=flat-square&amp;logo=javascript&amp;logoColor=71618E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-F7E4ED?style=flat-square&amp;logo=html5&amp;logoColor=956A80" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-F7E4ED?style=flat-square&amp;logo=css&amp;logoColor=956A80" alt="CSS3" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-E5EFEA?style=flat-square&amp;logo=react&amp;logoColor=5E8377" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-E5EFEA?style=flat-square&amp;logo=nextdotjs&amp;logoColor=5E8377" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-E5EFEA?style=flat-square&amp;logo=vuedotjs&amp;logoColor=5E8377" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/GitHub-F4EDE2?style=flat-square&amp;logo=github&amp;logoColor=85745E" alt="GitHub" />
+</p>
 
-<h3>▶ 포트폴리오</h3>
+<br />
 
-https://heeyeonportfolio.vercel.app/
+<h3 align="center">🐾 Made for a little company</h3>
+<p align="center">
+  <strong>Doodle Buddy · 낙서 친구</strong><br />
+  <sub>내가 그린 캐릭터와 함께 코딩하는 VS Code 확장</sub>
+</p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=CHOIHEEYOUN.doodle-buddy"><img src="https://raw.githubusercontent.com/heeyeon9578/doodle-buddy/main/media/readme-pet.gif" width="240" alt="꼬물거리다가 폴짝 뛰는 낙서 친구" /></a>
+</p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=CHOIHEEYOUN.doodle-buddy">Install extension</a> &nbsp; · &nbsp;
+  <a href="https://github.com/heeyeon9578/doodle-buddy">View source</a>
+</p>
 
-<h3>▶ 블로그</h3> 
+<br />
 
-<a href="https://choi-hee-yeon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF7100?style=flat-square&logo=Tistory&logoColor=white"/> 
+<details>
+  <summary>🐣 My other little friends</summary>
+  <br />
+  <p align="center">
+    <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/heeyeon9578" width="600" alt="My Gitanimals farm" /></a>
+  </p>
+</details>
 
-<h3>▶ Notion </h3>   
-
-<a href="https://heeyeon9578.notion.site/Heeyoun-s-IT-6ce6046d06a649e5bad5b7b76ce35ca2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<br />
+<p align="center"><sub>Thanks for stopping by. Have a lovely day ☁️</sub></p>
